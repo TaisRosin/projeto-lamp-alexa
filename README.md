@@ -41,8 +41,6 @@ https://portal.sinric.pro/login
 
 ### 2 - Adicione um dispositivo
 
-![img-adicionar_dispositiv.png](https://i.imgur.com/abcd1234.png)
-
 ### 3- Preencha informações do dispositivo
 
 ### 4- Ative as seguintes notificações
